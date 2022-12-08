@@ -16,5 +16,9 @@ Step 2: Choose two cards and turn them face-up. If cards a pair, points are rewa
 
 Step 3: Concentration ends when there are no cards left to match. 
 
+To run project, download zip folder and import into xcode and compile on your simulator of choice.
+
+
+
 
 
